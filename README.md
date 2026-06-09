@@ -1,15 +1,22 @@
 CodeAlpha C Programming Internship
 
 This repository contains the tasks completed for the CodeAlpha C Programming Internship.
+
 # CodeAlpha_Matrix_Operations
 Task 2: Matrix Operations
 
-A C program that performs:
+This project performs:
 
-Matrix Addition
-Matrix Multiplication
-Matrix Transpose
+- Matrix Addition
+- Matrix Multiplication
+- Matrix Transpose
+
+Concepts Used:
+- Functions
+- 2D Arrays
+- Loops
+
+
 
 Language Used
-
 C Programming
